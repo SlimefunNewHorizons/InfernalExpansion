@@ -1,9 +1,9 @@
 package ga.kirzu.infernalexpansion;
 
 import ga.kirzu.infernalexpansion.items.runes.BedRune;
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItemStack;
-import com.github.drakescraft_labs.slimefun4.utils.LoreBuilder;
-import com.github.drakescraft_labs.slimefun4.utils.itemstack.ColoredFireworkStar;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun4.utils.LoreBuilder;
+import io.github.thebusybiscuit.slimefun4.utils.itemstack.ColoredFireworkStar;
 import org.bukkit.Color;
 import org.bukkit.Material;
 
